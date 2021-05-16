@@ -1,0 +1,30 @@
+.nav {
+    background-color:#a7bbc7;
+    width: 100vw;
+    height: 10vh;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 90vh
+
+}
+
+.sidebar {
+    background-color: #e1e5ea;  
+    width: 20%;
+    height: 100%;
+}
+
+.projectDetail {
+    background-color: #faf3f3;
+    width: 80% ;
+}
+
+
+
+/*
+https://colorhunt.co/palette/282026
+*/

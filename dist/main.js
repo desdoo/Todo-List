@@ -1,0 +1,1 @@
+(()=>{const t=new class{constructor(t){this.name=t,this.projects=[]}addProject(t){this.projects.push(t)}get listProjects(){return this.projects}}("myList"),e=new class{constructor(t){this._name=t}get name(){return this._name}}("myProject");t.addProject(e),document.getElementById("sidebar"),console.log("Test B")})();
